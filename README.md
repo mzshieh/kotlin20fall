@@ -1,12 +1,12 @@
-# Kotlin Programming, 2020 Spring
+# Kotlin Programming, 2020 Fall
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: [黃品曄](mailto:lgthbo@gmail.com) lgthbo@gmail.com
++   Teaching Assistants: 陳鈺清
 
 ## Course Objectives
 
 +   Learn the fundamentals of Kotlin programming
-+   Learn how to develop Android app with Kotlin
++   Learn how to develop a simple Android app with Kotlin
 
 ## Textbook
 
@@ -18,10 +18,8 @@
 + [Head First Kotlin: A Brain-Friendly Guide 1st Edition](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide-ebook/dp/B07NPZ21QP)
 + References for Android: TBD
 
-## Lectures and Materials
+## Previous Lectures and Materials
 
-+ Due to COVID-19, the classes will be asynchronous.
-+ The lecturer will post materials before class.
 + [Lecture Videos](https://drive.google.com/open?id=10WexRjBzionhAyHhyqT4qDNpN2-mao9q)
 + Lecture notes
     +   [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/SyIQFblrL)
@@ -43,15 +41,10 @@
     +   [Slide 03](https://docs.google.com/presentation/d/10pTZtxkVamOfh9IOg-thwXdXptcZKvpaYOd69_w-hSY/)
     +   [Slide 04](https://docs.google.com/presentation/d/1dEHIDcqJ6J6Xew0TdsV7gPMRX-m9-vicDcm5aw2D9rI/)
 
-### Installation guide
-
-+ IntelliJ: See [this](https://drive.google.com/open?id=1-fJmTNAR0P9IxAERM_Dy_rDF_tyMrFYw)
-+ Android Studio: TBA
-
 ## Term Poject
 
-1. Calculator
-2. Android app 
+1. Text version: Generation of Minesweeper levels
+2. Android app: Minesweeper game
 
 ## Grading Policy
 
