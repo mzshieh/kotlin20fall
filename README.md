@@ -1,7 +1,7 @@
 # Kotlin Programming, 2020 Fall
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: 陳鈺清
++   Teaching Assistants: [陳鈺清](mailto:yuchingchen.tw@gmail.com) yuchingchen.tw@gmail.com
 
 ## Course Objectives
 
@@ -11,6 +11,7 @@
 ## Textbook
 
 + [Kotlin Programming: The Big Nerd Ranch Guide 1st Edition](https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide-ebook/dp/B07FXQ7SQN)
++ [中文版](https://www.tenlong.com.tw/products/9789864344796)
 
 ## References
 
