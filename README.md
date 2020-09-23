@@ -19,6 +19,14 @@
 + [Head First Kotlin: A Brain-Friendly Guide 1st Edition](https://www.amazon.com/Head-First-Kotlin-Brain-Friendly-Guide-ebook/dp/B07NPZ21QP)
 + References for Android: TBD
 
+## Lecture Notes
+
++ [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJbFMT_Hv)
+
+## Exercise
+
++ [Exercise 1](https://hackmd.io/@yuchingtw/By82yIvSw)
+
 ## Previous Lectures and Materials
 
 + [Lecture Videos](https://drive.google.com/open?id=10WexRjBzionhAyHhyqT4qDNpN2-mao9q)
