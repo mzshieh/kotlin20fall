@@ -22,10 +22,12 @@
 ## Lecture Notes
 
 + [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJbFMT_Hv)
++ [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ByliKf28D)
 
 ## Exercise
 
 + [Exercise 1](https://hackmd.io/@yuchingtw/By82yIvSw)
++ [Exercise 2](https://drive.google.com/file/d/1V5OUj-BGHrAE1hxt0dlIe5QRoGJFDl1c/view)
 
 ## Previous Lectures and Materials
 
