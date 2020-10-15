@@ -23,6 +23,7 @@
 
 + [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJbFMT_Hv)
 + [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ByliKf28D)
++ [Lecture 3](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ByVoMISvD)
 
 ## Exercise
 
