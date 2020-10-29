@@ -25,6 +25,8 @@
 + [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ByliKf28D)
 + [Lecture 3](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ByVoMISvD)
 + [Lecture 4](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJKHjtAwv)
++ [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/Syi_OhDuP)
++ [Lecture 6](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/B1TkFnwOw)
 
 ## Exercise
 
