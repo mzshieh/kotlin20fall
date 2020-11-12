@@ -28,6 +28,8 @@
 + [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/Syi_OhDuP)
 + [Lecture 6](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/B1TkFnwOw)
 + [Lecture 7](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HJJ2DkbFP)
++ [Lecture 8](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/r1lioE5Kw)
++ [Lecture 9](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BkI4245FD)
 
 ## Exercise
 
@@ -63,6 +65,7 @@
 1. Text version: Generation of Minesweeper levels
     +   [Specification](https://hackmd.io/@yuchingtw/S1S3ypktw)
     +   Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfmv0MkD59Zb4zdfFWU3dNsh0E_F5czr2RLgViQ5tU0eEvD7Q/viewform)
+    +   Due: 23:59:59, 3 Dec, 2020. 
 2. Android app: Minesweeper game
 
 ## Grading Policy
