@@ -36,6 +36,12 @@
 + [Exercise 1](https://hackmd.io/@yuchingtw/By82yIvSw)
 + [Exercise 2](https://drive.google.com/file/d/1V5OUj-BGHrAE1hxt0dlIe5QRoGJFDl1c/view)
 + [Exercise 3](https://drive.google.com/file/d/1GsD0RKXTItXNv_SCkEOe5d0RNIgReRFl/view)
++ [Exercise 4](https://drive.google.com/file/d/12Yb3vTBiu6HWqP3sq4OLRe_QMGoohlmN/view)
+
+## Android Programming
+
++ [Installation (Mac OS)](https://hackmd.io/@yuchingtw/By5HDQxcw)
++ [Installation (Windows 10)](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rkzf4SW9D)
 
 ## Previous Lectures and Materials
 
