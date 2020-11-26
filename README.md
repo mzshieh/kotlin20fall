@@ -42,6 +42,7 @@
 
 + [Installation (Mac OS)](https://hackmd.io/@yuchingtw/By5HDQxcw)
 + [Installation (Windows 10)](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rkzf4SW9D)
++ [Reference Course](https://classroom.udacity.com/courses/ud9012)
 + [Lecture 1](https://hackmd.io/@yuchingtw/rkzdumYcD)
 
 ## Previous Lectures and Materials
