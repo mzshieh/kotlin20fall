@@ -30,6 +30,8 @@
 + [Lecture 7](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HJJ2DkbFP)
 + [Lecture 8](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/r1lioE5Kw)
 + [Lecture 9](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BkI4245FD)
++ [Lecture 10](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ryTM7s25D)
++ [Lecture 11](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BkD5wo29P)
 
 ## Exercise
 
