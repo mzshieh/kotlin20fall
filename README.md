@@ -21,17 +21,17 @@
 
 ## Lecture Notes
 
-+ [Lecture 1](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BJbFMT_Hv)
-+ [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ByliKf28D)
-+ [Lecture 3](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ByVoMISvD)
-+ [Lecture 4](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rJKHjtAwv)
-+ [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/Syi_OhDuP)
-+ [Lecture 6](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/B1TkFnwOw)
-+ [Lecture 7](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/HJJ2DkbFP)
-+ [Lecture 8](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/r1lioE5Kw)
-+ [Lecture 9](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BkI4245FD)
-+ [Lecture 10](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/ryTM7s25D)
-+ [Lecture 11](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/BkD5wo29P)
++ [Lecture 1](https://hackmd.io/@truckski/BJbFMT_Hv)
++ [Lecture 2](https://hackmd.io/@truckski/ByliKf28D)
++ [Lecture 3](https://hackmd.io/@truckski/ByVoMISvD)
++ [Lecture 4](https://hackmd.io/@truckski/rJKHjtAwv)
++ [Lecture 5](https://hackmd.io/@truckski/Syi_OhDuP)
++ [Lecture 6](https://hackmd.io/@truckski/B1TkFnwOw)
++ [Lecture 7](https://hackmd.io/@truckski/HJJ2DkbFP)
++ [Lecture 8](https://hackmd.io/@truckski/r1lioE5Kw)
++ [Lecture 9](https://hackmd.io/@truckski/BkI4245FD)
++ [Lecture 10](https://hackmd.io/@truckski/ryTM7s25D)
++ [Lecture 11](https://hackmd.io/@truckski/BkD5wo29P)
 
 ## Exercise
 
@@ -46,7 +46,7 @@
 + [Installation (Windows 10)](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/rkzf4SW9D)
 + [Reference Course](https://classroom.udacity.com/courses/ud9012)
 + [Lecture 1](https://hackmd.io/@yuchingtw/rkzdumYcD)
-+ [Lecture 2](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/B1FZEGrjw)
++ [Lecture 2](https://hackmd.io/@truckski/B1FZEGrjw)
 
 ## Previous Lectures and Materials
 
