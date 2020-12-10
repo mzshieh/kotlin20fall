@@ -78,7 +78,10 @@
     +   Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSfmv0MkD59Zb4zdfFWU3dNsh0E_F5czr2RLgViQ5tU0eEvD7Q/viewform)
     +   Due: 23:59:59, 3 Dec, 2020. 
 2. Android app: Minesweeper game
-
+    +   [Specification](https://hackmd.io/4vvVef4IQ5GzektF4hS2bw)
+    +   Submit [here](https://docs.google.com/forms/d/1TRm8jAprSwkuZvRLzWlR-HnKDofFPz-NmGHRGax--gk)
+    +   Due: 23:59:59, 7 Jan, 2021.
+   
 ## Grading Policy
 
 +   Pass: Being able to program
