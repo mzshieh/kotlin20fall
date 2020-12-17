@@ -47,6 +47,7 @@
 + [Reference Course](https://classroom.udacity.com/courses/ud9012)
 + [Lecture 1](https://hackmd.io/@yuchingtw/rkzdumYcD)
 + [Lecture 2](https://hackmd.io/@truckski/B1FZEGrjw)
++ [Lecture 3](https://hackmd.io/@truckski/By2N8Id2P)
 
 ## Previous Lectures and Materials
 
